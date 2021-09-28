@@ -1,5 +1,5 @@
 # Location Finder
-This Project is a Django project that features Folium and Geocoder to find one location at a time or display an error if that is not a valid location
+This Project is a Django project that features Folium and Geopy to find one location at a time or display an error if that is not a valid location
 ## Motivation
 My motivation for this project was to create a project to build on my django skills while adding some geography to make a more interesting and useful app
 ## Screenshots
@@ -12,7 +12,8 @@ My motivation for this project was to create a project to build on my django ski
 <b>Built with</b>
 - [Python]
 - [Django]
-
+- [Folium]
+- [Geopy]
 
 ## How to use?
 Enter a location where you would like to see and select search. If there is no location under that search query, you will recieve an error message.
